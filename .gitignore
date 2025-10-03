@@ -43,3 +43,59 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+generated_plugin_registrant.dart
+
+# Android
+android/.gradle/
+android/build/
+android/captures/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Pods/
+ios/build/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/build/
+macos/Pods/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Linux
+linux/flutter/ephemeral/
+linux/build/
+
+# Windows
+windows/flutter/ephemeral/
+windows/build/
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+
+# Others
+pubspec.lock
+.env
