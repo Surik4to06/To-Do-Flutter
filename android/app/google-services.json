@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109470348957",
+    "project_id": "tasksapp-aecc7",
+    "storage_bucket": "tasksapp-aecc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109470348957:android:1209697385599237d9c674",
+        "android_client_info": {
+          "package_name": "com.example.tarefas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyiciYduigk57ZJQmniUcXxmGcpKcpiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
